@@ -4,7 +4,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=willy94rs&show_icons=true&locale=en" alt="willy94rs" /></p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=willy94rs&show_icons=true&locale=en&layout=compact" alt="willy94rs" /></p>
+<p><img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs?username=willy94rs&show_icons=true&locale=en&layout=compact" alt="willy94rs" /></p>
 
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
