@@ -28,6 +28,6 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=willy94rs&show_icons=true&locale=en" alt="willy94rs" /></p>
+<p>&nbsp;<img align="top-right" src="https://github-readme-stats.vercel.app/api?username=willy94rs&show_icons=true&locale=en" alt="willy94rs" /></p>
 
 
